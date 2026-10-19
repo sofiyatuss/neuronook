@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "dx": "Migraine with aura",
+    "category": "Neurology",
+    "level": 1,
+    "age": 24,
+    "sex": "woman",
+    "chief": "Recurring headache and shimmering lights",
+    "history": "Gradual visual zigzags lasting 25 minutes followed by unilateral pulsating headache, nausea and photophobia. Similar episodes for years.",
+    "exam": "Normal neurological examination between episodes.",
+    "tests": {
+      "Headache history": "At least five stereotyped headaches, 8–16 hours each; aura evolves over minutes.",
+      "Neurological examination": "No focal deficit, fever, or meningism."
+    },
+    "clues": "Gradual reversible visual aura preceding headache",
+    "why": "Characteristic stereotyped migraine features; assess red flags before labeling primary headache.",
+    "differentials": "TIA; tension-type headache; occipital seizure",
+    "plan": "Screen for sudden-onset red flags; acute symptom relief and preventive discussion if frequent.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 2,
+    "dx": "Tension-type headache",
+    "category": "Neurology",
+    "level": 1,
+    "age": 31,
+    "sex": "man",
+    "chief": "Pressure around the head",
+    "history": "Bilateral pressing discomfort after long workdays, without vomiting or aura.",
+    "exam": "Normal neurological examination.",
+    "tests": {
+      "Headache history": "Bilateral nonpulsating mild–moderate pain; physical activity does not worsen it.",
+      "Neurological examination": "No focal abnormalities or red flags."
+    },
+    "clues": "Bilateral pressing headache without migrainous features",
+    "why": "Features favor tension-type rather than migraine; exclude secondary red flags.",
+    "differentials": "Migraine; medication-overuse headache",
+    "plan": "Discuss sleep, stress, analgesic overuse and appropriate symptomatic care.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 3,
+    "dx": "Bell palsy",
+    "category": "Neurology",
+    "level": 1,
+    "age": 42,
+    "sex": "woman",
+    "chief": "One side of face suddenly weak",
+    "history": "Over 18 hours, difficulty closing right eye and smiling; no arm weakness or speech disturbance.",
+    "exam": "Right upper and lower facial weakness including forehead; limbs normal.",
+    "tests": {
+      "Cranial nerve examination": "Right peripheral pattern of CN VII weakness; forehead involved.",
+      "Glucose and focused assessment": "No vesicles or other cranial nerve signs; assess alternate causes."
+    },
+    "clues": "Forehead-involving unilateral facial weakness",
+    "why": "Peripheral facial nerve palsy; central causes and Ramsay Hunt require assessment.",
+    "differentials": "Stroke; Ramsay Hunt syndrome; Lyme disease",
+    "plan": "Protect cornea; prompt clinician assessment for corticosteroids and alternate causes.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 4,
+    "dx": "Carpal tunnel syndrome",
+    "category": "Neurology",
+    "level": 1,
+    "age": 46,
+    "sex": "woman",
+    "chief": "Nighttime hand tingling",
+    "history": "Thumb, index and middle finger paresthesia wakes her; shaking hand helps.",
+    "exam": "Median-distribution sensory symptoms, possible thenar weakness.",
+    "tests": {
+      "Nerve conduction study": "Median neuropathy at wrist with prolonged distal latency.",
+      "Focused hand examination": "Median distribution symptoms, positive provocative maneuver."
+    },
+    "clues": "Nocturnal median-nerve paresthesias",
+    "why": "Entrapment at carpal tunnel is supported by clinical pattern and nerve conduction.",
+    "differentials": "Cervical radiculopathy; ulnar neuropathy",
+    "plan": "Splinting, ergonomic assessment; consider specialist referral if weakness or persistent symptoms.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 5,
+    "dx": "Major depressive disorder",
+    "category": "Psychology",
+    "level": 1,
+    "age": 28,
+    "sex": "woman",
+    "chief": "Low mood and loss of interest",
+    "history": "For 7 weeks, persistent depressed mood, anhedonia, insomnia, poor concentration and guilt, impairing work. No past mania.",
+    "exam": "Psychomotor slowing; coherent thought, no psychosis.",
+    "tests": {
+      "Structured clinical interview": "Five or more depressive symptoms including depressed mood/anhedonia for over 2 weeks, with impairment.",
+      "Safety and medical screen": "Assess suicide risk, bipolar history, substances and medical mimics."
+    },
+    "clues": "Persistent anhedonia and mood symptoms with impairment",
+    "why": "A major depressive episode is plausible after exclusion of mania, substance and medical explanations.",
+    "differentials": "Adjustment disorder; bipolar depression; hypothyroidism",
+    "plan": "Assess safety, discuss evidence-based psychotherapy and/or medication with a clinician.",
+    "source": "APA depression case examples"
+  },
+  {
+    "id": 6,
+    "dx": "Panic disorder",
+    "category": "Psychology",
+    "level": 1,
+    "age": 26,
+    "sex": "man",
+    "chief": "Sudden terrifying attacks",
+    "history": "Unexpected surges of palpitations, trembling and fear of dying; worries about more attacks for 2 months.",
+    "exam": "Between attacks, examination unremarkable.",
+    "tests": {
+      "Clinical interview": "Recurrent unexpected panic attacks and persistent concern/behavior change over a month.",
+      "Medical and substance review": "Evaluate cardiac, thyroid, stimulant and other mimics."
+    },
+    "clues": "Unexpected recurrent panic attacks plus anticipatory anxiety",
+    "why": "Persistent worry after attacks distinguishes disorder from isolated panic attacks.",
+    "differentials": "Hyperthyroidism; arrhythmia; social anxiety",
+    "plan": "Rule out medical causes and discuss CBT with interoceptive exposure.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 7,
+    "dx": "Generalized anxiety disorder",
+    "category": "Psychology",
+    "level": 1,
+    "age": 35,
+    "sex": "woman",
+    "chief": "Cannot stop worrying",
+    "history": "Excessive worry across finances, family and work most days for 9 months, with restlessness, tension and poor sleep.",
+    "exam": "No psychosis or manic features.",
+    "tests": {
+      "Clinical interview": "Difficult-to-control multi-domain worry over 6 months, associated physical symptoms and impairment.",
+      "Medical review": "Assess caffeine, medication, thyroid and other contributors."
+    },
+    "clues": "Longstanding pervasive uncontrollable worry",
+    "why": "Time course and breadth of worry favor GAD.",
+    "differentials": "Adjustment disorder; panic disorder; hyperthyroidism",
+    "plan": "Discuss CBT, sleep interventions and treatment options.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 8,
+    "dx": "Parkinson disease",
+    "category": "Neurology",
+    "level": 1,
+    "age": 67,
+    "sex": "man",
+    "chief": "Slower movement and tremor",
+    "history": "Gradual asymmetric resting hand tremor, smaller handwriting and reduced arm swing.",
+    "exam": "Bradykinesia with rigidity and resting tremor, asymmetric.",
+    "tests": {
+      "Motor examination": "Bradykinesia with decrement, unilateral rigidity and rest tremor.",
+      "Medication and red-flag review": "No dopamine-blocking drug exposure or early severe autonomic failure."
+    },
+    "clues": "Bradykinesia plus resting tremor and rigidity",
+    "why": "Clinical parkinsonism with typical asymmetry supports Parkinson disease.",
+    "differentials": "Essential tremor; drug-induced parkinsonism; PSP",
+    "plan": "Neurology review; functional goals, exercise and dopaminergic treatment discussion.",
+    "source": "Physiopedia neurological case studies"
+  },
+  {
+    "id": 9,
+    "dx": "Essential tremor",
+    "category": "Neurology",
+    "level": 1,
+    "age": 59,
+    "sex": "woman",
+    "chief": "Hands shake when holding a cup",
+    "history": "Bilateral action tremor for 8 years, worse with stress, no slowness or stiffness.",
+    "exam": "Postural and kinetic tremor without bradykinesia.",
+    "tests": {
+      "Motor examination": "Bilateral action tremor; no parkinsonian bradykinesia.",
+      "Medication and thyroid review": "Consider enhanced physiological tremor and thyroid disease."
+    },
+    "clues": "Action tremor without bradykinesia",
+    "why": "Longstanding bilateral kinetic tremor is characteristic.",
+    "differentials": "Parkinson disease; hyperthyroidism",
+    "plan": "Assess disability, triggers and treatment options.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 10,
+    "dx": "Alzheimer disease",
+    "category": "Neuropsychology",
+    "level": 2,
+    "age": 73,
+    "sex": "woman",
+    "chief": "Gradual worsening memory",
+    "history": "Over 3 years repeats questions, misplaces objects and needs help with finances; gradual progression.",
+    "exam": "Impaired delayed recall with limited cue benefit; daily functioning affected.",
+    "tests": {
+      "Cognitive assessment": "Episodic memory encoding/storage impairment and multidomain cognitive deficits.",
+      "MRI brain and reversible-cause labs": "Medial temporal atrophy; check B12, TSH and other contributors."
+    },
+    "clues": "Insidious progressive episodic-memory and functional decline",
+    "why": "Pattern suggests Alzheimer clinical syndrome; biomarkers may be considered where appropriate.",
+    "differentials": "Depression; vascular cognitive impairment; Lewy body dementia",
+    "plan": "Comprehensive dementia assessment, support planning and discussion of appropriate therapies.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 11,
+    "dx": "Vascular cognitive impairment",
+    "category": "Neuropsychology",
+    "level": 2,
+    "age": 72,
+    "sex": "man",
+    "chief": "Thinking slowed after strokes",
+    "history": "Stepwise cognitive decline with hypertension and prior infarcts; planning worse than recall.",
+    "exam": "Executive slowing, mild left-sided weakness.",
+    "tests": {
+      "MRI brain": "Multiple strategic infarcts and extensive small-vessel disease.",
+      "Neuropsychological assessment": "Executive and processing-speed deficits predominate."
+    },
+    "clues": "Executive deficits with vascular injury",
+    "why": "Temporal relationship and imaging support vascular contribution.",
+    "differentials": "Alzheimer disease; depression",
+    "plan": "Optimize vascular risks and arrange multidisciplinary cognitive support.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 12,
+    "dx": "Lewy body dementia",
+    "category": "Neuropsychology",
+    "level": 3,
+    "age": 76,
+    "sex": "man",
+    "chief": "Memory issues and seeing people",
+    "history": "Fluctuating attention, detailed visual hallucinations and dream enactment before major memory complaints.",
+    "exam": "Parkinsonism and impaired visuospatial performance.",
+    "tests": {
+      "Cognitive examination": "Marked attention and visuospatial deficits with fluctuations.",
+      "Sleep and movement history": "Probable REM sleep behavior disorder and spontaneous parkinsonism."
+    },
+    "clues": "Fluctuations, hallucinations, REM sleep behavior and parkinsonism",
+    "why": "Core clinical features suggest dementia with Lewy bodies.",
+    "differentials": "Alzheimer disease; delirium; Parkinson disease dementia",
+    "plan": "Specialist evaluation; caution with antipsychotic sensitivity.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 13,
+    "dx": "Frontotemporal dementia, behavioral variant",
+    "category": "Neuropsychology",
+    "level": 3,
+    "age": 59,
+    "sex": "woman",
+    "chief": "Personality has changed",
+    "history": "Progressive disinhibition, apathy, loss of empathy and rigid food habits over 2 years.",
+    "exam": "Executive dysfunction; memory relatively spared early.",
+    "tests": {
+      "Behavioral and collateral interview": "Progressive early behavioral disinhibition and loss of empathy.",
+      "MRI brain": "Frontal and anterior temporal-predominant atrophy."
+    },
+    "clues": "Early behavioral change over memory loss",
+    "why": "Behavioral syndrome and frontotemporal pattern favor bvFTD.",
+    "differentials": "Primary psychiatric disorder; Alzheimer disease",
+    "plan": "Specialist assessment, caregiver support and safety planning.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 14,
+    "dx": "Multiple sclerosis",
+    "category": "Neurology",
+    "level": 2,
+    "age": 29,
+    "sex": "woman",
+    "chief": "Vision loss then leg numbness",
+    "history": "Painful monocular vision loss 9 months ago resolved; now subacute sensory and gait symptoms.",
+    "exam": "Hyperreflexia, internuclear ophthalmoplegia, patchy sensory deficit.",
+    "tests": {
+      "MRI brain and spine": "Typical periventricular and spinal demyelinating lesions with dissemination in space; differing enhancement.",
+      "CSF oligoclonal bands": "CSF-restricted oligoclonal bands support inflammatory demyelination."
+    },
+    "clues": "Separate CNS demyelinating episodes",
+    "why": "Clinical attacks plus MRI/CSF may meet contemporary diagnostic criteria after excluding mimics.",
+    "differentials": "NMOSD; MOGAD; B12 deficiency",
+    "plan": "Urgent specialist assessment for relapse and disease-modifying treatment.",
+    "source": "Physiopedia neurological case studies"
+  },
+  {
+    "id": 15,
+    "dx": "Myasthenia gravis",
+    "category": "Neurology",
+    "level": 2,
+    "age": 34,
+    "sex": "woman",
+    "chief": "Drooping eyelids in evenings",
+    "history": "Fluctuating ptosis and double vision, worse after activity, improves with rest.",
+    "exam": "Fatigable ptosis and variable ocular weakness; normal sensation.",
+    "tests": {
+      "AChR antibody test": "Acetylcholine receptor antibodies positive.",
+      "Repetitive nerve stimulation": "Decremental compound muscle action potentials."
+    },
+    "clues": "Fatigable weakness without sensory loss",
+    "why": "Neuromuscular junction dysfunction supported by antibody/electrophysiology.",
+    "differentials": "Thyroid eye disease; botulism; cranial neuropathy",
+    "plan": "Assess breathing and swallowing urgently if affected; specialist treatment.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 16,
+    "dx": "Guillain–Barré syndrome",
+    "category": "Neurology",
+    "level": 2,
+    "age": 41,
+    "sex": "man",
+    "chief": "Weak legs progressing upward",
+    "history": "One week after gastroenteritis, progressive symmetrical weakness and tingling over 4 days.",
+    "exam": "Areflexia, symmetric ascending weakness.",
+    "tests": {
+      "Nerve conduction studies": "Demyelinating polyradiculoneuropathy pattern.",
+      "Lumbar puncture": "Raised CSF protein with few cells may emerge after first week."
+    },
+    "clues": "Rapid ascending weakness and areflexia",
+    "why": "Acute inflammatory polyradiculoneuropathy; early CSF can be normal.",
+    "differentials": "Spinal cord compression; myasthenia; tick paralysis",
+    "plan": "Hospital assessment for respiratory and autonomic monitoring; IVIG or plasma exchange.",
+    "source": "Physiopedia neurological case studies"
+  },
+  {
+    "id": 17,
+    "dx": "Focal temporal lobe epilepsy",
+    "category": "Neurology",
+    "level": 2,
+    "age": 22,
+    "sex": "woman",
+    "chief": "Brief strange spells",
+    "history": "Repeated 60-second episodes of déjà vu, rising epigastric sensation and impaired awareness with lip smacking.",
+    "exam": "Normal between events.",
+    "tests": {
+      "EEG": "Interictal temporal epileptiform discharges may be present.",
+      "MRI epilepsy protocol": "Possible mesial temporal sclerosis; normal imaging does not exclude epilepsy."
+    },
+    "clues": "Brief stereotyped impaired-awareness spells",
+    "why": "Semiology supports focal temporal seizures; EEG can support but not independently exclude.",
+    "differentials": "Panic attacks; syncope; dissociation",
+    "plan": "Seizure safety, specialist assessment and appropriate antiseizure treatment.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 18,
+    "dx": "Ischemic stroke",
+    "category": "Neurology",
+    "level": 2,
+    "age": 68,
+    "sex": "woman",
+    "chief": "Sudden inability to speak",
+    "history": "Abrupt aphasia and right arm weakness 45 minutes ago.",
+    "exam": "Right face/arm weakness, aphasia; glucose normal.",
+    "tests": {
+      "Noncontrast CT head": "No intracranial hemorrhage on initial scan.",
+      "CT angiography": "Left middle cerebral artery large-vessel occlusion."
+    },
+    "clues": "Hyperacute focal neurological deficit",
+    "why": "Time-critical vascular syndrome; imaging directs reperfusion eligibility.",
+    "differentials": "Hypoglycemia; seizure with Todd paresis; migraine aura",
+    "plan": "Activate emergency stroke pathway immediately; assess reperfusion options.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 19,
+    "dx": "Transient ischemic attack",
+    "category": "Neurology",
+    "level": 2,
+    "age": 64,
+    "sex": "man",
+    "chief": "Speech suddenly stopped then returned",
+    "history": "Abrupt language disturbance lasting 12 minutes, now completely resolved; vascular risk factors.",
+    "exam": "Neurological examination normal now.",
+    "tests": {
+      "Urgent vascular imaging": "Carotid stenosis may be found; normal imaging does not rule out TIA.",
+      "Brain MRI DWI": "No acute infarction; absence of DWI lesion does not exclude TIA."
+    },
+    "clues": "Brief abrupt focal deficit without residual symptoms",
+    "why": "Possible transient cerebral ischemia requires urgent stroke evaluation.",
+    "differentials": "Migraine aura; focal seizure; hypoglycemia",
+    "plan": "Same-day emergency assessment and secondary prevention workup.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 20,
+    "dx": "Concussion",
+    "category": "Neurology",
+    "level": 2,
+    "age": 19,
+    "sex": "woman",
+    "chief": "Foggy after collision",
+    "history": "Head impact during sport, headache and slowed thinking, no focal deficit; no worsening red flags.",
+    "exam": "Balance mildly impaired, GCS 15.",
+    "tests": {
+      "Concussion symptom assessment": "Headache, cognitive fog and light sensitivity after impact.",
+      "Red flag and CT decision assessment": "No high-risk signs; imaging decision uses validated clinical rules."
+    },
+    "clues": "Post-traumatic transient neurological symptoms",
+    "why": "Clinical concussion diagnosis; routine CT does not diagnose concussion.",
+    "differentials": "Intracranial bleed; vestibular injury",
+    "plan": "Remove from play, monitor red flags and graded return to activity.",
+    "source": "Physiopedia neurological case studies"
+  },
+  {
+    "id": 21,
+    "dx": "Obsessive-compulsive disorder",
+    "category": "Psychology",
+    "level": 2,
+    "age": 23,
+    "sex": "man",
+    "chief": "Repeated checking consumes hours",
+    "history": "Intrusive fear of fire; checks stove repeatedly despite recognizing excessiveness, 2 hours daily.",
+    "exam": "Anxious, intact reality testing.",
+    "tests": {
+      "Structured symptom interview": "Obsessions and compulsions are time-consuming and distressing.",
+      "Differential and insight assessment": "Thoughts intrusive; rituals aim to reduce anxiety, not delusion-driven."
+    },
+    "clues": "Intrusive obsessions and neutralizing rituals",
+    "why": "Compulsions distinguish OCD from ordinary caution or generalized worry.",
+    "differentials": "OCPD; psychotic disorder; GAD",
+    "plan": "Exposure and response prevention with clinician support; consider medication.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 22,
+    "dx": "Post-traumatic stress disorder",
+    "category": "Psychology",
+    "level": 2,
+    "age": 38,
+    "sex": "woman",
+    "chief": "Nightmares after an assault",
+    "history": "For 4 months has trauma-related intrusions, avoidance, hypervigilance and negative mood affecting daily life.",
+    "exam": "Startles easily; oriented, no psychosis.",
+    "tests": {
+      "Trauma-focused interview": "Intrusions, avoidance, negative cognition/mood and arousal for over a month.",
+      "Safety and comorbidity assessment": "Assess current safety, depression, substance use and dissociation."
+    },
+    "clues": "Persistent multi-cluster symptoms after trauma",
+    "why": "Duration and symptom clusters support PTSD; avoid unnecessary detailed trauma retelling.",
+    "differentials": "Acute stress disorder; adjustment disorder",
+    "plan": "Offer trauma-focused evidence-based psychotherapy and supportive care.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 23,
+    "dx": "Bipolar I disorder",
+    "category": "Psychology",
+    "level": 2,
+    "age": 30,
+    "sex": "man",
+    "chief": "Sleeping 2 hours and making grand plans",
+    "history": "One week of elevated/irritable mood, marked energy, pressured speech, impulsive spending and major impairment; prior depressive episodes.",
+    "exam": "Grandiosity, distractibility and psychomotor activation.",
+    "tests": {
+      "Longitudinal mood interview": "Syndromal mania with impairment for at least a week or requiring hospitalization.",
+      "Substance and medical assessment": "Evaluate stimulants, thyroid disease and medication-induced symptoms."
+    },
+    "clues": "Manic episode with marked functional impairment",
+    "why": "History of mania establishes bipolar I rather than unipolar depression.",
+    "differentials": "Stimulant-induced mania; schizoaffective disorder",
+    "plan": "Assess risk and need for urgent psychiatric care; mood stabilization.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 24,
+    "dx": "Social anxiety disorder",
+    "category": "Psychology",
+    "level": 2,
+    "age": 20,
+    "sex": "woman",
+    "chief": "Avoids presentations",
+    "history": "For 2 years fears negative judgment in class and social situations, avoids them, causing academic impairment.",
+    "exam": "No panic outside feared social evaluation.",
+    "tests": {
+      "Clinical interview": "Persistent fear of scrutiny and avoidance for more than 6 months.",
+      "Differential assessment": "Evaluate autism, panic disorder and normative shyness."
+    },
+    "clues": "Persistent fear of negative evaluation",
+    "why": "Fear is tied to social scrutiny rather than unexpected attacks.",
+    "differentials": "Panic disorder; avoidant personality traits",
+    "plan": "CBT with graduated exposure; individualized treatment discussion.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 25,
+    "dx": "ADHD, predominantly inattentive presentation",
+    "category": "Psychology",
+    "level": 2,
+    "age": 17,
+    "sex": "boy",
+    "chief": "Cannot organize schoolwork",
+    "history": "Since primary school forgetful, loses materials, distractible at home and school; longstanding impairment.",
+    "exam": "Normal neurological examination.",
+    "tests": {
+      "Developmental and school collateral": "Several inattentive symptoms before age 12 in at least two settings.",
+      "Learning and mood evaluation": "Assess sleep, anxiety, depression and learning disorder mimics."
+    },
+    "clues": "Childhood-onset cross-setting inattention",
+    "why": "Developmental pattern is required; attention difficulties alone are nonspecific.",
+    "differentials": "Anxiety; sleep deprivation; learning disorder",
+    "plan": "Multimodal supports and formal specialist evaluation.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 26,
+    "dx": "Schizophrenia",
+    "category": "Psychology",
+    "level": 3,
+    "age": 25,
+    "sex": "man",
+    "chief": "Hearing voices and withdrawing",
+    "history": "Eight months of functional decline, persecutory delusions, auditory hallucinations and disorganized speech; no sustained mood episode.",
+    "exam": "Thought disorder, blunted affect and impaired functioning.",
+    "tests": {
+      "Psychiatric longitudinal interview": "Active psychotic symptoms with continuous disturbance over six months.",
+      "Medical and substance screen": "Exclude substance-induced, mood-related and neurological causes."
+    },
+    "clues": "Psychosis with sustained functional deterioration",
+    "why": "Time course and syndrome support schizophrenia after differential evaluation.",
+    "differentials": "Schizophreniform disorder; bipolar psychosis; substance-induced psychosis",
+    "plan": "Collaborative early psychosis service, safety assessment and treatment.",
+    "source": "Lumen abnormal psychology"
+  },
+  {
+    "id": 27,
+    "dx": "Stimulant-induced psychotic disorder",
+    "category": "Psychology",
+    "level": 3,
+    "age": 28,
+    "sex": "woman",
+    "chief": "New paranoia and agitation",
+    "history": "Persecutory beliefs began shortly after a prescribed stimulant dose increase; no previous psychotic history.",
+    "exam": "Agitated and suspicious; vital signs require assessment.",
+    "tests": {
+      "Medication timeline": "Psychotic symptoms closely track stimulant exposure and improve after discontinuation.",
+      "Substance and medical assessment": "Evaluate other substances, delirium and underlying primary psychosis."
+    },
+    "clues": "Psychosis temporally linked to stimulant exposure",
+    "why": "Medication temporal association strongly informs differential, but follow-up is necessary.",
+    "differentials": "Schizophrenia; bipolar mania; delirium",
+    "plan": "Urgent safety assessment and prescriber-led medication review.",
+    "source": "Lumen schizophrenia cases"
+  },
+  {
+    "id": 28,
+    "dx": "Schizoaffective disorder",
+    "category": "Psychology",
+    "level": 4,
+    "age": 36,
+    "sex": "man",
+    "chief": "Psychosis with major mood episodes",
+    "history": "Years of psychosis with major depressive episodes occupying most illness duration; also hallucinations for 3 weeks without mood symptoms.",
+    "exam": "Current depressed mood with delusional thinking.",
+    "tests": {
+      "Detailed longitudinal timeline": "At least two weeks of psychosis without a major mood episode; mood episodes present for majority of illness.",
+      "Medical and substance evaluation": "No substance or medical cause identified."
+    },
+    "clues": "Psychosis outside mood episodes plus predominant mood illness",
+    "why": "Longitudinal proportion of mood episodes differentiates from schizophrenia or mood disorder with psychotic features.",
+    "differentials": "Bipolar disorder with psychotic features; schizophrenia",
+    "plan": "Specialist longitudinal assessment and individualized psychiatric treatment.",
+    "source": "Lumen abnormal psychology"
+  },
+  {
+    "id": 29,
+    "dx": "Delirium",
+    "category": "Neuropsychology",
+    "level": 2,
+    "age": 82,
+    "sex": "woman",
+    "chief": "Suddenly confused overnight",
+    "history": "Acute fluctuating confusion after urinary infection and medication changes.",
+    "exam": "Inattention, altered awareness, sleep-wake disturbance.",
+    "tests": {
+      "Bedside attention testing": "Unable to sustain attention; fluctuates across hours.",
+      "Infection, metabolic and medication workup": "Fever, inflammatory markers and medication burden suggest precipitants."
+    },
+    "clues": "Acute fluctuation and inattention",
+    "why": "Delirium is a medical emergency and differs from chronic dementia.",
+    "differentials": "Dementia; psychosis; depression",
+    "plan": "Identify and treat cause, medication review and supportive nonpharmacological care.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 30,
+    "dx": "Normal-pressure hydrocephalus",
+    "category": "Neuropsychology",
+    "level": 3,
+    "age": 74,
+    "sex": "man",
+    "chief": "Shuffling gait and urinary urgency",
+    "history": "Progressive gait initiation difficulty, cognitive slowing and urgency over a year.",
+    "exam": "Magnetic broad-based gait, executive slowing.",
+    "tests": {
+      "MRI brain": "Ventriculomegaly disproportionate to sulcal enlargement.",
+      "Large-volume lumbar tap assessment": "Objective gait improvement after CSF removal may support shunt responsiveness."
+    },
+    "clues": "Gait-predominant syndrome with ventriculomegaly",
+    "why": "Suggestive triad and imaging prompt specialist assessment; triad not specific.",
+    "differentials": "Parkinson disease; Alzheimer disease; cervical myelopathy",
+    "plan": "Refer for neurosurgical and neurological evaluation.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 31,
+    "dx": "Amyotrophic lateral sclerosis",
+    "category": "Neurology",
+    "level": 3,
+    "age": 57,
+    "sex": "man",
+    "chief": "Weak hand and muscle twitching",
+    "history": "Progressive asymmetric hand weakness, then leg weakness over 10 months; no sensory complaints.",
+    "exam": "Atrophy and fasciculations with brisk reflexes.",
+    "tests": {
+      "EMG and nerve conduction": "Active and chronic denervation in multiple body regions; sensory studies often preserved.",
+      "MRI and mimic evaluation": "No compressive structural explanation; exclude treatable mimics."
+    },
+    "clues": "Combined upper and lower motor neuron signs",
+    "why": "Progressive motor dysfunction across regions suggests ALS after excluding mimics.",
+    "differentials": "Multifocal motor neuropathy; cervical myelopathy",
+    "plan": "Prompt multidisciplinary neuromuscular care, respiratory and nutrition assessment.",
+    "source": "Physiopedia neurological case studies"
+  },
+  {
+    "id": 32,
+    "dx": "Cervical myelopathy",
+    "category": "Neurology",
+    "level": 3,
+    "age": 62,
+    "sex": "woman",
+    "chief": "Clumsy hands and unsteady gait",
+    "history": "Months of hand dexterity loss and gait imbalance with neck stiffness.",
+    "exam": "Hyperreflexia, Hoffmann sign and impaired tandem gait.",
+    "tests": {
+      "MRI cervical spine": "Cervical canal stenosis with spinal cord compression.",
+      "Neurological examination": "Upper motor neuron signs below lesion; hand clumsiness."
+    },
+    "clues": "Long-tract signs with hand dysfunction",
+    "why": "Cord compression explains progressive myelopathic signs.",
+    "differentials": "ALS; MS; peripheral neuropathy",
+    "plan": "Expedited spine specialist assessment; urgent if rapidly worsening.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 33,
+    "dx": "Meningitis, bacterial",
+    "category": "Neurology",
+    "level": 3,
+    "age": 21,
+    "sex": "man",
+    "chief": "Fever and severe headache",
+    "history": "Acute fever, headache, photophobia and neck stiffness; increasingly unwell.",
+    "exam": "Fever, meningism and altered alertness.",
+    "tests": {
+      "Blood cultures and initial labs": "Inflammatory response; blood cultures obtained without delaying therapy.",
+      "Lumbar puncture when safe": "Neutrophilic CSF pleocytosis, low glucose and high protein."
+    },
+    "clues": "Acute febrile meningeal syndrome",
+    "why": "Bacterial meningitis requires immediate action; imaging before LP only when indicated.",
+    "differentials": "Viral meningitis; subarachnoid hemorrhage",
+    "plan": "Emergency antibiotics and supportive management without avoidable delay.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 34,
+    "dx": "Subarachnoid hemorrhage",
+    "category": "Neurology",
+    "level": 3,
+    "age": 49,
+    "sex": "woman",
+    "chief": "Worst headache of life",
+    "history": "Thunderclap headache reaches maximal intensity in seconds while exercising; vomiting and neck pain.",
+    "exam": "Photophobia, neck stiffness; may have normal focal exam.",
+    "tests": {
+      "Urgent noncontrast CT": "Subarachnoid blood may be visible; sensitivity depends on timing and conditions.",
+      "Further vascular/CSF workup": "CTA and/or LP when indicated if CT negative and suspicion persists."
+    },
+    "clues": "Instantaneous thunderclap headache",
+    "why": "Potential aneurysmal hemorrhage is a time-critical emergency.",
+    "differentials": "RCVS; migraine; meningitis",
+    "plan": "Emergency neurovascular evaluation and stabilization.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 35,
+    "dx": "Wernicke encephalopathy",
+    "category": "Neuropsychology",
+    "level": 3,
+    "age": 52,
+    "sex": "man",
+    "chief": "Confusion and unsteady walking",
+    "history": "Poor nutrition and heavy alcohol use, recent vomiting; new confusion and gait imbalance.",
+    "exam": "Ataxia, nystagmus and disorientation.",
+    "tests": {
+      "Clinical risk assessment": "Malnutrition risk with encephalopathy and oculomotor/gait signs.",
+      "MRI brain": "May show mammillary body or thalamic abnormalities; normal MRI does not exclude."
+    },
+    "clues": "Ataxia, eye signs and confusion with nutritional risk",
+    "why": "Clinical suspicion requires immediate thiamine; full triad often absent.",
+    "differentials": "Alcohol withdrawal; stroke; hepatic encephalopathy",
+    "plan": "Give urgent parenteral thiamine per clinical protocol and address nutrition.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 36,
+    "dx": "Vitamin B12 deficiency myelopathy",
+    "category": "Neurology",
+    "level": 3,
+    "age": 48,
+    "sex": "woman",
+    "chief": "Numb feet and imbalance",
+    "history": "Months of tingling, reduced vibration sense and difficulty walking in darkness.",
+    "exam": "Loss of proprioception, sensory ataxia and brisk knee reflexes.",
+    "tests": {
+      "Serum B12 and MMA": "Low B12 with elevated methylmalonic acid supports deficiency.",
+      "Spinal MRI": "Possible posterior column T2 signal changes."
+    },
+    "clues": "Posterior column dysfunction with B12 deficiency",
+    "why": "Subacute combined degeneration can cause mixed sensory and pyramidal findings.",
+    "differentials": "Copper deficiency; MS; peripheral neuropathy",
+    "plan": "Prompt B12 replacement and evaluation of underlying cause.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 37,
+    "dx": "Functional neurological disorder",
+    "category": "Neurology",
+    "level": 4,
+    "age": 27,
+    "sex": "woman",
+    "chief": "Intermittent leg weakness",
+    "history": "Weakness fluctuates and is worse under observation; symptoms are real and disabling.",
+    "exam": "Positive Hoover sign with internal inconsistency; no matching structural pattern.",
+    "tests": {
+      "Focused positive-sign examination": "Hoover sign demonstrates preserved automatic hip extension despite impaired voluntary effort.",
+      "Targeted investigations": "Tests guided by red flags; no evidence of another explanatory lesion."
+    },
+    "clues": "Positive internally inconsistent motor signs",
+    "why": "FND is diagnosed using positive clinical features, not simply normal scans.",
+    "differentials": "Stroke; MS; spinal pathology",
+    "plan": "Explain diagnosis respectfully; specialized physiotherapy and psychological support as indicated.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 38,
+    "dx": "Autoimmune encephalitis, anti-NMDA receptor",
+    "category": "Neurology",
+    "level": 4,
+    "age": 20,
+    "sex": "woman",
+    "chief": "Rapid behavior changes and seizures",
+    "history": "Two weeks of new psychosis, memory deficits, seizures and abnormal movements.",
+    "exam": "Fluctuating consciousness and orofacial dyskinesias.",
+    "tests": {
+      "CSF and neuronal antibodies": "CSF anti-GluN1 IgG positive; inflammatory CSF may be present.",
+      "EEG and MRI": "EEG diffuse slowing; MRI can be normal or nonspecific."
+    },
+    "clues": "Subacute psychiatric plus neurological syndrome",
+    "why": "Combined encephalopathy, seizures, dyskinesias and antibody support anti-NMDAR encephalitis.",
+    "differentials": "Primary psychosis; HSV encephalitis; toxic-metabolic causes",
+    "plan": "Emergency neurology care, infectious exclusion, tumor screening and immunotherapy.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 39,
+    "dx": "Neuromyelitis optica spectrum disorder",
+    "category": "Neurology",
+    "level": 4,
+    "age": 39,
+    "sex": "woman",
+    "chief": "Severe visual loss and weakness",
+    "history": "Recurrent severe optic neuritis and prolonged spinal cord symptoms with bladder dysfunction.",
+    "exam": "Bilateral visual impairment and spastic paraparesis.",
+    "tests": {
+      "MRI spinal cord": "Longitudinally extensive transverse myelitis spanning three or more vertebral segments.",
+      "Serum AQP4-IgG": "AQP4-IgG positive on cell-based assay."
+    },
+    "clues": "Severe optic neuritis with longitudinally extensive myelitis",
+    "why": "AQP4-IgG with compatible core clinical syndrome supports NMOSD.",
+    "differentials": "MS; MOGAD",
+    "plan": "Urgent relapse treatment and long-term specialist immunotherapy.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 40,
+    "dx": "Creutzfeldt–Jakob disease",
+    "category": "Neuropsychology",
+    "level": 5,
+    "age": 66,
+    "sex": "man",
+    "chief": "Very rapid cognitive deterioration",
+    "history": "Weeks to months of cognitive decline, gait ataxia and myoclonus.",
+    "exam": "Multidomain deficits, startle myoclonus.",
+    "tests": {
+      "MRI brain DWI": "Cortical ribboning and/or basal ganglia restricted diffusion.",
+      "CSF RT-QuIC": "Positive prion seeding assay supports probable prion disease."
+    },
+    "clues": "Rapid dementia with myoclonus and characteristic testing",
+    "why": "Rapidly progressive syndrome demands evaluation for treatable mimics.",
+    "differentials": "Autoimmune encephalitis; toxic-metabolic encephalopathy",
+    "plan": "Urgent specialist investigation and supportive care; evaluate reversible causes.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 41,
+    "dx": "Progressive supranuclear palsy",
+    "category": "Neurology",
+    "level": 5,
+    "age": 71,
+    "sex": "woman",
+    "chief": "Frequent backward falls",
+    "history": "Early unexplained falls, axial rigidity and difficulty looking downward.",
+    "exam": "Slow vertical saccades, supranuclear gaze palsy, postural instability.",
+    "tests": {
+      "Ocular motor examination": "Impaired vertical saccades and supranuclear gaze limitation.",
+      "MRI brain": "Midbrain atrophy may be present but not diagnostic alone."
+    },
+    "clues": "Early falls plus vertical gaze abnormality",
+    "why": "Atypical parkinsonism with oculomotor deficits suggests PSP.",
+    "differentials": "Parkinson disease; MSA; NPH",
+    "plan": "Movement-disorder specialist assessment and falls/swallowing support.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 42,
+    "dx": "Multiple system atrophy",
+    "category": "Neurology",
+    "level": 5,
+    "age": 60,
+    "sex": "man",
+    "chief": "Dizziness on standing and stiffness",
+    "history": "Rapidly progressive parkinsonism with early urinary dysfunction and severe orthostatic hypotension.",
+    "exam": "Rigidity, bradykinesia and substantial blood pressure drop standing.",
+    "tests": {
+      "Orthostatic vitals": "Marked neurogenic orthostatic hypotension.",
+      "MRI brain": "Possible putaminal or pontocerebellar changes; diagnosis remains clinical."
+    },
+    "clues": "Early prominent autonomic failure plus parkinsonism",
+    "why": "Suggests MSA rather than typical Parkinson disease.",
+    "differentials": "Parkinson disease; pure autonomic failure; DLB",
+    "plan": "Specialist autonomic and movement care; prevent falls and manage symptoms.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 43,
+    "dx": "Huntington disease",
+    "category": "Neuropsychology",
+    "level": 4,
+    "age": 43,
+    "sex": "woman",
+    "chief": "New involuntary movements and irritability",
+    "history": "Progressive choreiform movements, executive difficulties and mood changes; affected parent.",
+    "exam": "Chorea, motor impersistence and executive dysfunction.",
+    "tests": {
+      "HTT genetic testing with consent": "Pathogenic CAG expansion supports diagnosis.",
+      "Cognitive and psychiatric evaluation": "Executive and behavioral impairment; assess safety."
+    },
+    "clues": "Autosomal dominant family history with chorea",
+    "why": "Typical triad and genetic confirmation support Huntington disease.",
+    "differentials": "Drug-induced chorea; Wilson disease",
+    "plan": "Genetic counseling and multidisciplinary symptom management.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 44,
+    "dx": "Narcolepsy type 1",
+    "category": "Neurology",
+    "level": 4,
+    "age": 23,
+    "sex": "man",
+    "chief": "Falls asleep unexpectedly",
+    "history": "Daily irresistible sleep episodes, emotion-triggered knee buckling with preserved awareness, sleep paralysis.",
+    "exam": "Normal between episodes.",
+    "tests": {
+      "Polysomnography then MSLT": "Mean sleep latency ≤8 minutes and at least two sleep-onset REM periods in appropriate conditions.",
+      "Sleep and medication review": "Exclude insufficient sleep, sleep apnea and REM-suppressing medications."
+    },
+    "clues": "Excessive sleepiness with cataplexy",
+    "why": "Cataplexy and appropriate sleep testing support narcolepsy type 1.",
+    "differentials": "Sleep deprivation; obstructive sleep apnea",
+    "plan": "Sleep specialist review and safety counseling for driving.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 45,
+    "dx": "Temporal arteritis (giant cell arteritis)",
+    "category": "Neurology",
+    "level": 4,
+    "age": 75,
+    "sex": "woman",
+    "chief": "New headache and jaw pain",
+    "history": "New unilateral temporal headache, scalp tenderness and jaw claudication; transient visual blurring.",
+    "exam": "Tender temporal artery; possible visual deficit.",
+    "tests": {
+      "ESR, CRP and CBC": "Inflammatory markers elevated, but normal results do not completely exclude.",
+      "Temporal artery ultrasound or biopsy": "Halo sign or histologic arteritis supports diagnosis."
+    },
+    "clues": "New headache with jaw claudication and visual threat",
+    "why": "Suspected GCA is a vision-threatening emergency.",
+    "differentials": "Migraine; trigeminal neuralgia",
+    "plan": "Urgent same-day assessment and glucocorticoids when strongly suspected.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 46,
+    "dx": "Primary progressive aphasia, semantic variant",
+    "category": "Neuropsychology",
+    "level": 5,
+    "age": 61,
+    "sex": "man",
+    "chief": "Cannot remember word meanings",
+    "history": "Progressive loss of word comprehension and object naming, fluent speech, relatively preserved episodic memory early.",
+    "exam": "Impaired single-word comprehension and semantic knowledge.",
+    "tests": {
+      "Language neuropsychology": "Severe confrontation naming and single-word comprehension deficits.",
+      "MRI brain": "Predominantly anterior temporal atrophy, often left greater than right."
+    },
+    "clues": "Progressive semantic loss with anterior temporal atrophy",
+    "why": "Language-led neurodegeneration consistent with semantic-variant PPA.",
+    "differentials": "Alzheimer-related logopenic PPA; aphasic stroke",
+    "plan": "Specialist language and dementia assessment; speech-language support.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 47,
+    "dx": "Borderline personality disorder",
+    "category": "Psychology",
+    "level": 4,
+    "age": 26,
+    "sex": "woman",
+    "chief": "Unstable relationships and intense emotions",
+    "history": "Longstanding pattern since adolescence of unstable relationships, identity disturbance, impulsivity and fear of abandonment across contexts.",
+    "exam": "Affect rapidly reactive; evaluate self-harm risk without assumptions.",
+    "tests": {
+      "Longitudinal structured interview": "Pervasive enduring pattern across situations, not limited to mood episodes.",
+      "Differential and safety assessment": "Assess trauma, bipolar episodes, substance use and self-harm risk."
+    },
+    "clues": "Persistent cross-context interpersonal and identity instability",
+    "why": "Personality pattern must be enduring; avoid diagnosis from a single crisis.",
+    "differentials": "Bipolar disorder; PTSD; ADHD",
+    "plan": "Collaborative formulation and evidence-based psychotherapy such as DBT.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 48,
+    "dx": "Anorexia nervosa",
+    "category": "Psychology",
+    "level": 3,
+    "age": 18,
+    "sex": "woman",
+    "chief": "Significant weight loss",
+    "history": "Persistent restriction with intense fear of weight gain and body image disturbance; low weight for developmental context.",
+    "exam": "Bradycardia and orthostatic symptoms raise medical concern.",
+    "tests": {
+      "Eating-disorder interview": "Restriction, fear of weight gain and body image disturbance with significantly low weight.",
+      "Medical stability evaluation": "Vitals, ECG, electrolytes and refeeding risk assessment."
+    },
+    "clues": "Restriction plus weight/shape psychopathology",
+    "why": "Diagnosis requires assessment of nutrition, cognitions and medical severity.",
+    "differentials": "ARFID; medical weight loss; depression",
+    "plan": "Prompt multidisciplinary treatment; urgent medical assessment if unstable.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 49,
+    "dx": "Tourette syndrome",
+    "category": "Psychology",
+    "level": 3,
+    "age": 14,
+    "sex": "boy",
+    "chief": "Repeated blinking and vocal sounds",
+    "history": "Multiple motor tics and vocal tics waxing and waning for over 18 months, onset age 8.",
+    "exam": "Brief suppressible movements and throat clearing.",
+    "tests": {
+      "Developmental tic history": "Multiple motor and at least one vocal tic present over a year with childhood onset.",
+      "Comorbidity assessment": "Evaluate ADHD, OCD and functional impairment."
+    },
+    "clues": "Childhood motor and vocal tics persisting over a year",
+    "why": "Clinical diagnostic criteria distinguish Tourette from transient tic disorders.",
+    "differentials": "Stereotypies; functional tic-like behaviors",
+    "plan": "Psychoeducation and CBIT if tics cause impairment.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 50,
+    "dx": "Somatic symptom disorder",
+    "category": "Psychology",
+    "level": 4,
+    "age": 44,
+    "sex": "man",
+    "chief": "Distressing persistent bodily symptoms",
+    "history": "Chronic pain with disproportionate time, anxiety and repeated checking; symptoms genuinely experienced.",
+    "exam": "Exam and investigations guided by symptoms, not automatically assumed normal.",
+    "tests": {
+      "Clinical assessment": "Persistent excessive thoughts, feelings or behaviors related to distressing somatic symptoms.",
+      "Medical review": "Appropriate evaluation for concurrent physical conditions."
+    },
+    "clues": "Excessive symptom-related distress and behavior",
+    "why": "Presence of a medical illness does not exclude this diagnosis; symptoms are not fabricated.",
+    "differentials": "Illness anxiety disorder; chronic pain with adaptive coping",
+    "plan": "Validate symptoms, coordinated care and CBT-based approaches.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 51,
+    "dx": "Cerebral venous sinus thrombosis",
+    "category": "Neurology",
+    "level": 5,
+    "age": 32,
+    "sex": "woman",
+    "chief": "Worsening headache with seizure",
+    "history": "Subacute progressive headache and new seizure after recent pregnancy; papilledema.",
+    "exam": "Possible focal deficit and raised intracranial pressure signs.",
+    "tests": {
+      "MR venography or CT venography": "Dural venous sinus filling defect.",
+      "Brain MRI or CT": "Venous infarction, sometimes hemorrhagic."
+    },
+    "clues": "Headache, seizure and prothrombotic risk",
+    "why": "Venous imaging is required; standard noncontrast CT can miss CVST.",
+    "differentials": "Migraine; intracranial mass; arterial stroke",
+    "plan": "Emergency specialist assessment and anticoagulation evaluation.",
+    "source": "Clinical synthesis"
+  },
+  {
+    "id": 52,
+    "dx": "Wilson disease",
+    "category": "Neurology",
+    "level": 5,
+    "age": 19,
+    "sex": "man",
+    "chief": "Tremor and personality changes",
+    "history": "Progressive dystonia, tremor, psychiatric symptoms and abnormal liver enzymes.",
+    "exam": "Dysarthria, dystonia and possible corneal rings.",
+    "tests": {
+      "Ceruloplasmin and 24-hour urine copper": "Low ceruloplasmin and elevated urine copper support diagnosis but require interpretation.",
+      "Slit-lamp and liver evaluation": "Kayser–Fleischer rings and hepatic involvement may be present."
+    },
+    "clues": "Young-onset movement disorder with liver findings",
+    "why": "Treatable copper metabolism disorder requires comprehensive diagnostic criteria.",
+    "differentials": "Huntington disease; drug-induced dystonia",
+    "plan": "Urgent hepatology/neurology care and copper-directed therapy.",
+    "source": "Clinical synthesis"
+  }
+]
